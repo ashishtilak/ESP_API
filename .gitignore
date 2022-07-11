@@ -1,0 +1,7 @@
+packages/
+publish/
+backup/
+*.user
+*log*.htm
+esp/bin
+esp/obj
